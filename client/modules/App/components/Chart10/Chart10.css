@@ -1,0 +1,24 @@
+.myChart {
+  max-width: 1100px;
+  min-height: 500px;
+  margin: 20px auto;
+  background: white;
+}
+.myChart > div {
+  width: 900px;
+  float:left;
+}
+.selectReport {
+  float: right !important;
+  width: auto !important;
+  padding-top: 50px;
+  padding-right: 25px;
+  font-size: 18px;
+}
+.selectReport ul {
+  list-style: none;
+}
+.selectReport ul li{
+  display: -webkit-box;
+  color: #878787;
+}
